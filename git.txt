@@ -1,0 +1,6 @@
+git init --initialize git
+git add . -- add all files
+git commit -m "message" -- commits all the messages
+git remote add origin 'GITHUB LINK'
+git branch -M main
+git push -u origin main
