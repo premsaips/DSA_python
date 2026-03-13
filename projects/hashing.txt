@@ -1,0 +1,11 @@
+Hashing:
+    1. it is a technique used to store and retrive data using a key.
+    2. In python , hashing  is implemented using dictionaries(dict).
+    eg: class = {
+                    'saketh' : 25,
+                    'prem' : 24
+                }
+    3. time complexity = O(1)
+
+Open Hashing:
+    1. Whenever i am getting the same index value colliding with the previous index,  it is going to stored in a form of linkedlist.
